@@ -1,5 +1,4 @@
 # Atividade sobre indexação - PostgreSQL
-## Realizada por Luiz Ricardo Brumati para a disciplina de Banco de Dados II - UTFPR-PB
 
 O relatório desta atividade compila os comandos executados no script `atividade_indexacao.sql`, que contém a resolução dos itens solicitados na atividade. No entanto, scripts adicionais também foram utilizados.
 
